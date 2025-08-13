@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog de Productividad</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; background: #f4f4f4; line-height: 1.6; }
+    header { text-align: center; margin-bottom: 2rem; }
+    article { background: #fff; padding: 2rem; border-radius: 10px; max-width: 800px; margin: auto; }
+    h1, h2 { color: #333; }
+    h2 { margin-top: 1.5rem; }
+    p { margin-bottom: 1rem; }
+    footer { text-align: center; margin-top: 2rem; font-style: italic; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>¿Y si no eres tú, sino tu sistema?</h1>
+    <p>3 hábitos que destruyen la procrastinación</p>
+  </header>
+
+  <article>
+    <p>¿Sientes que trabajas horas y horas, pero nunca avanzas? ¿Que la procrastinación te devora mientras tu lista de pendientes crece como un monstruo? No eres flojo, ni incapaz. Tu sistema está roto.</p>
+
+    <h2>1️⃣ Trabaja con tu energía, no contra ella</h2>
+    <p>Olvida los horarios rígidos. El secreto está en los ciclos de 90 minutos. 90 minutos de concentración máxima, sin distracciones, luego descanso real. Pequeños descansos estratégicos = productividad explosiva.</p>
+
+    <h2>2️⃣ Solo 3 tareas al día</h2>
+    <p>Antes mi lista de pendientes era una montaña imposible. Ahora: 3 tareas clave. Solo tres. Las que realmente importan, las que mueven tu proyecto. Terminar esas tres tareas te da motivación real y confianza instantánea.</p>
+
+    <h2>3️⃣ Reuniones con propósito = tiempo libre</h2>
+    <p>Corta el ruido: reuniones con agenda clara, mensajes concisos, decisiones rápidas. Más tiempo para crear, pensar y avanzar. Menos distracción = más resultados.</p>
+
+    <p>Hoy te reto: elige un hábito y aplícalo mañana mismo. Observa cómo cambia tu día, tu motivación y tu enfoque. Comenta cuál vas a implementar primero y hagamos crecer esta comunidad de emprendedores.</p>
+  </article>
+
+  <footer>
+    Creado por Bryan Sandino - ¡Transforma tu productividad hoy!
+  </footer>
+</body>
+</html>
